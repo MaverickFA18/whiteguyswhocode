@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <title>Ben's Jet Site</title>
+  <meta name="description"
+  content="Ben's Website About Jet's">
+  <link rel="stylesheet" href="styles.css">
+</head>
+
+<body>
+
+<div id='cssmenu'>
+<ul>
+   <li><a href='index.html'><span>Home</span></a></li>
+</ul>
+</div>
+
+<h1 class="pagetitle">Jet Service Cielings and Max Speeds</h1>
+
+<table style="width:100%">
+  <tr>
+    <th>Aircraft</th>
+    <th>Max Speed</th>		
+    <th>Service Alt</th>
+  </tr>
+  <tr>
+    <td>F/A-18</td>
+    <td>1,915 km/h</td>		
+    <td>50,000 ft</td>
+  </tr>
+  <tr>
+    <td>Eve</td>
+    <td>Jackson</td>		
+    <td>94</td>
+  </tr>
+  <tr>
+    <td>John</td>
+    <td>Doe</td>		
+    <td>80</td>
+  </tr>
+</table>
+</body>
+</html>
+

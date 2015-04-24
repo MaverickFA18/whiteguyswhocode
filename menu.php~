@@ -1,0 +1,12 @@
+<?php
+
+echo "<head>\n";
+echo "  <link rel=\"stylesheet\" href=\"styles.css\">\n";
+echo "</head>\n";
+echo "<div id='cssmenu'>\n";
+echo "<ul>\n";
+echo "   <li><a href='index.php'><span>Home</span></a></li>\n";
+echo "</ul>\n";
+echo "</div>";
+
+?>
